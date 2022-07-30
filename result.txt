@@ -1,21 +1,11 @@
-./Articles/1、7.28-无心-药师咒.docx
--words: 2057
-./Articles/2、7.28-无心-准提神咒.docx
--words: 2078
-./Articles/3、7.28-无心-中秋节英文.docx
--words: 2022
-./Articles/4、7.28-无心-豌豆.docx
--words: 1626
-./Articles/5、7.28-无心-风中奇缘.docx
--words: 2084
-./Articles/《国王游戏》是神作还是粪作？男主是博爱还是渣男？.doc
--words: 1846
-./Articles/为什么水果店里的水果价格是路边摊的两倍之多？水果店和路边摊到底哪个更赚钱呢？.doc
--words: 1214
-./Articles/吕布：是战神还是逃神，为了保命，居然爬厕所？.doc
--words: 1637
-./Articles/简单益智小游戏射龙门，究竟应该怎么玩呢？又有哪些技巧呢？.doc
--words: 1083
-./Articles/路西法和上帝的荣誉之战，究竟谁赢谁输？路西法的最终结局又是如何？.doc
--words: 1429
-Words of all files: 17076
+./Articles/台湾偶像剧女王——陈乔恩.docx
+-words: 3527
+./Articles/史上最复杂的牛排——威灵顿.docx
+-words: 1794
+./Articles/大力水手爱吃的菠菜真的那么强吗.docx
+-words: 1727
+./Articles/聚会游戏——你画我猜.docx
+-words: 1089
+./Articles/般若部经典——心经.docx
+-words: 1130
+Words of all files: 9267

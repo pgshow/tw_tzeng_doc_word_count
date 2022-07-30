@@ -39,7 +39,7 @@ def _calculate_words(txt_path):
     """Calculate words number"""
     with open(txt_path, 'r', encoding='gbk') as f:
         content = f.read()
-        cjkReg = re.compile(u'[\u1100-\uFFFD]+?')
+        cjkReg = re.compile(u'[\u1100-\u2999\u3001-\uFFFD]+?')
         trimedCJK = cjkReg.sub(' a ', content, 0)   # replace the CJK with the word a
-        # words = trimedCJK.split()[500:]
+        # words = trimedCJK.split()
         return len(trimedCJK.split())
