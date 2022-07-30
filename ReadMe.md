@@ -1,5 +1,5 @@
 ## doc_word_count
-可以批量计算 Word Document 的字数并输出每个 doc 的情况，目前的算法中文比较准确，英文多就会有误差。
+模拟 Word 的字数计算方式，可以批量计算 Word Document 的字数并输出每个 doc 的情况，目前的算法中文比较准确，英文多就会有误差。
 
 ### 使用方法
 * Word 文档放入 Article 文件夹
